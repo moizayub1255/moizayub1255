@@ -1,5 +1,11 @@
 # 💫 About Me:
-I am currently working on a salon website. i will add multiple microservices in it as well
+Hey there! I'm Moiz, a passionate Full-Stack Web Developer who loves turning creative ideas into real, functional, and beautiful websites. I specialize in MERN stack (MongoDB, Express, React, Node.js) and enjoy building scalable, user-friendly web apps that make people go “wow!” 🤩
+
+When I’m not coding, you’ll probably find me experimenting with new technologies, sipping chai ☕, or making random tech jokes that only other developers laugh at 😅
+
+💡 Currently working on: A microservices-based salon management platform
+🚀 Learning: DevOps, Cloud Deployment, and Advanced Backend Architecture
+🌍 Fun fact: I break code just to fix it again — that’s how I learn faster 😎
 
 
 ## 🌐 Socials:
