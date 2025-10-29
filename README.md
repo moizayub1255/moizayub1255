@@ -1,10 +1,7 @@
 # 💫 About Me:
-## 👋 Hey there! I'm **Moiz**
 
-I'm a passionate **Full-Stack Web Developer** who loves turning creative ideas into real, functional, and beautiful websites.  
+👋 Hey there! I'm **Moiz**.A passionate **Full-Stack Web Developer** who loves turning creative ideas into real, functional, and beautiful websites.  
 I specialize in **MERN Stack** (MongoDB, Express, React, Node.js) and enjoy building scalable, user-friendly web apps that make people go *“wow!”* 😍
-
----
 
 ### ☕ A little about me
 When I’m not coding, you’ll probably find me:
@@ -12,19 +9,13 @@ When I’m not coding, you’ll probably find me:
 - Sipping endless cups of chai ☕  
 - Making random tech jokes that only other developers laugh at 😅  
 
----
-
 ### 🚀 What I’m up to
 - 💼 **Currently working on:** A microservices-based salon management platform  
 - 📚 **Learning:** DevOps, Cloud Deployment, and Advanced Backend Architecture  
 - 🌍 **Fun fact:** I break code just to fix it again — that’s how I learn faster 😎  
 
----
-
 ### 💬 Let's Connect
 If you’re a tech enthusiast or just someone who loves chai and clean code, let’s connect and build something awesome together! 🚀
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/moizayub1255) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/moiz-ayub-7b9828323) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:moizayub401@gmail.com) 
