@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 👋 Hey there! I'm **Moiz**.A passionate **Full-Stack Web Developer** who loves turning creative ideas into real, functional, and beautiful websites.  
-I specialize in **MERN Stack** (MongoDB, Express, React, Node.js) and enjoy building scalable, user-friendly web apps that make people go *“wow!”* 😍
+I specialize in **MERN Stack** (MongoDB, Express, React, Node.js) and enjoy building scalable, user-friendly web apps that make people go *“wow!”*
 
 ### ☕ A little about me
 When I’m not coding, you’ll probably find me:
