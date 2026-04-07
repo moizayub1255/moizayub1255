@@ -149,21 +149,3 @@ Hey there! I'm **Moiz Ayub** — a passionate developer who bridges the gap betw
 </p>
 
 ---
-
-# 🏗️ DevOps & Cloud Architecture
-
-```mermaid
-graph LR
-    A[💻 Code] --> B[🐳 Containerize]
-    B --> C[🔄 CI/CD Pipeline]
-    C --> D[☸️ Kubernetes Cluster]
-    D --> E[📊 Monitoring & Observability]
-    E --> F[⚡ Auto-scaling]
-    F --> A
-    
-    style A fill:#8b5cf6,color:#fff
-    style B fill:#2496ed,color:#fff
-    style C fill:#d24939,color:#fff
-    style D fill:#326ce5,color:#fff
-    style E fill:#e6522c,color:#fff
-    style F fill:#10b981,color:#fff
