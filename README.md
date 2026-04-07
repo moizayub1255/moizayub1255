@@ -1,10 +1,13 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Moiz%20Ayub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&fontColor=ffffff" alt="Moiz Ayub" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast+%F0%9F%9A%80;MERN+Stack+Specialist;Cloud+%26+Infrastructure+Lover;Building+Scalable+Solutions" alt="Typing SVG" />
 </p>
+
 <br />
+
 ---
 
 # 💫 About Me
@@ -48,7 +51,6 @@ Hey there! I'm **Moiz Ayub** — a passionate developer who bridges the gap betw
   <a href="mailto:moizayub401@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
- 
 </p>
 
 ---
@@ -109,3 +111,32 @@ Hey there! I'm **Moiz Ayub** — a passionate developer who bridges the gap betw
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=moizayub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizayub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizayub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=moizayub&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moizayub&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>💻 "Code. Deploy. Scale. Repeat." 🚀</b>
+</p>
