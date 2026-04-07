@@ -112,31 +112,6 @@ Hey there! I'm **Moiz Ayub** — a passionate developer who bridges the gap betw
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=moizayub&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moizayub&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moizayub&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="45%" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=moizayub&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=moizayub&label=Profile%20Views&color=8B5CF6&style=flat" alt="Profile Views" />
-</p>
-
 <p align="center">
   <b>💻 "Code. Deploy. Scale. Repeat." 🚀</b>
 </p>
