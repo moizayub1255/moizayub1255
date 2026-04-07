@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Moiz%20Ayub&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4&fontColor=ffffff" alt="Moiz Ayub" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;DevOps+Enthusiast+%F0%9F%9A%80;MERN+Stack+Specialist;Cloud+%26+Infrastructure+Lover;Building+Scalable+Solutions" alt="Typing SVG" />
-</p>
+</p> -->
 
 <br />
 
